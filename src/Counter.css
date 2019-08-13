@@ -1,0 +1,14 @@
+.cart {
+	color: #fff;
+	background-color: #0000CD;
+}  
+.cart:hover {
+	color: #fff;
+	background-color: #00008B;
+}
+.cart:active {
+	color: #fff;
+}
+.btn {
+	margin: 5px;
+}
