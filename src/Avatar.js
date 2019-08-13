@@ -22,49 +22,49 @@ class Avatar extends Component {
 				"id": "2",
 				"cover": "assest/img/dollar100startup.jpg",
 				"title": "The 7 Habits of Highly",
-				"price": "204",
+				"price": "309",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "3",
 				"cover": "assest/img/elonmusk.jpg",
 				"title": "Elon Musk",
-				"price": "204",
+				"price": "280",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "4",
 				"cover": "assest/img/eloquentjs.jpg",
 				"title": "The $100 Startup",
-				"price": "204",
+				"price": "200",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "5",
 				"cover": "assest/img/javascriptgoodparts.jpg",
 				"title": "Steve Jobs",
-				"price": "204",
+				"price": "500",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "6",
 				"cover": "assest/img/learnreact.jpg",
 				"title": "JavaScript: The Good Parts",
-				"price": "204",
+				"price": "450",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "7",
 				"cover": "assest/img/sevenhabitsofhighlyeffectivepeople.jpg",
 				"title": "Eloquent JavaScript",
-				"price": "204",
+				"price": "480",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			},
 			{
 				"id": "8",
 				"cover": "assest/img/stevejobs.jpg",
 				"title": "Learning React: Functional",
-				"price": "204",
+				"price": "380",
 				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 			}]
 		}
